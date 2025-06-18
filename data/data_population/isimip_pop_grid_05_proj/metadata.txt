@@ -1,0 +1,2 @@
+downloaded from https://data.isimip.org/10.48364/ISIMIP.432399
+Franziska Piontek, Tobias Geiger (2017): ISIMIP2b secondary population input data (v1.0). ISIMIP Repository.  https://doi.org/10.48364/ISIMIP.432399

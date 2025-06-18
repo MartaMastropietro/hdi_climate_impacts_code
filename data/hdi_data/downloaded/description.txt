@@ -1,0 +1,3 @@
+components data downloaded from https://globaldatalab.org/shdi/download/ with disabled interpolation 
+
+shapefiles downloaded from https://globaldatalab.org/mygdl/downloads/shapefiles/

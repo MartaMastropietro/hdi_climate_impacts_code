@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Countries where armed conflicts took place",
+    "subtitle": "Included are [armed conflicts](#dod:armed-conflict-ucdp) that caused at least one death in the country that year.",
+    "note": "Current country borders are used across time.",
+    "citation": "Uppsala Conflict Data Program (2024); Natural Earth (2022)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/locations-of-ongoing-armed-conflicts?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "Russia",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Country where conflict took place - Conflict type: all": {
+      "titleShort": "Country where conflict took place - Conflict type: all",
+      "titleLong": "Country where conflict took place - Conflict type: all",
+      "descriptionShort": "At least one all conflict event took place in this country in a given year.",
+      "descriptionKey": [
+        "'1' indicates that there was a conflict event in the given country. '0' indicates that there was no conflict event in the given country.",
+        "An armed conflict is a disagreement between organized groups, or between one organized group and civilians, that causes at least 25 deaths during a year. This includes combatant and civilian deaths due to fighting."
+      ],
+      "descriptionProcessing": "UCDP provides geographical coordinates of each conflict event. We have mapped these coordinates to countries by means of the Natural Earth dataset.\n\nIn some instances, the event's coordinates fall within the borders of a country. Other times, the event's coordinates fall outside the borders of a country. In the latter case, we have mapped the event to the country that is closest to the event's coordinates.\n\nConflict event with id \"53238\" and relid \"PAK-2003-1-345-88\" was assigned to \"Siachen Glacier\" by Natural Earth. We have mapped it to \"Pakistan\" following the text in the `where_description` field from the Natural Earth data, which refers to \"Giang sector in Siachen, Pakistani Kashmir\".",
+      "unit": "",
+      "timespan": "1989-2023",
+      "type": "Integer",
+      "owidVariableId": 985531,
+      "shortName": "is_location_of_conflict__conflict_type_all",
+      "lastUpdated": "2024-08-26",
+      "citationShort": "Uppsala Conflict Data Program (2024); Natural Earth (2022) – processed by Our World in Data",
+      "citationLong": "Uppsala Conflict Data Program (2024); Natural Earth (2022) – processed by Our World in Data. “Country where conflict took place - Conflict type: all” [dataset]. Uppsala Conflict Data Program, “Georeferenced Event Dataset v24.1”; Natural Earth, “Natural Earth - Large scale data (1:10m Cultural Vectors) 5.1.1” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985531.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-22"
+}

@@ -1,0 +1,1 @@
+data were originally preprocessed from era5 0.25 gridded hourly reanalysis, variables were computed at the annual level on the same grid following the procedure described in the methods section of the paper

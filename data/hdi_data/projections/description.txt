@@ -1,0 +1,20 @@
+population size
+Source: Wittgenstein Centre for Demography and Global Human Capital (2023). Wittgenstein Centre Data Explorer Version 3.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+number of people 
+
+life exp at birth: 
+Source: Wittgenstein Centre for Demography and Global Human Capital (2023). Wittgenstein Centre Data Explorer Version 3.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+The number of years a newborn is expected to live. Available in all scenarios and at all geographical scales. It is expressed in years.
+
+mean years schooling:
+Source: Wittgenstein Centre for Demography and Global Human Capital (2023). Wittgenstein Centre Data Explorer Version 3.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+Mean Years of Schooling by Broad Age
+Mean number of years spent in school, classified by sex and broad age groups. Available in all scenarios and at all geographical scales. It is expressed in years.
+age 25+
+
+GDP:
+IIASA projections https://iiasa.ac.at/models-tools-data/search?search_api_fulltext=income,
+WDI historical

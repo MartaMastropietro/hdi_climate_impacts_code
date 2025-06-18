@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Trade as a share of GDP",
+    "subtitle": "Sum of exports and imports of goods and services, divided by gross domestic product, expressed as a percentage. This is also known as the \"trade openness index\".",
+    "citation": "Multiple sources compiled by World Bank (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/trade-as-share-of-gdp?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "China",
+      "India",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Trade (% of GDP)": {
+      "titleShort": "Trade (% of GDP)",
+      "titleLong": "Trade (% of GDP)",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "% of GDP",
+      "timespan": "1960-2022",
+      "type": "Numeric",
+      "owidVariableId": 905427,
+      "shortName": "ne_trd_gnfs_zs",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data",
+      "citationLong": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data. “Trade (% of GDP)” [dataset]. World Bank and OECD, “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905427.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-22"
+}

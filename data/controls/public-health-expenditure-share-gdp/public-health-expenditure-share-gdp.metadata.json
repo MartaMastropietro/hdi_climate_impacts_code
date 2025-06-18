@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Government health expenditure as a share of GDP",
+    "subtitle": "This metric captures spending on government funded health care systems and social health insurance, as well as compulsory health insurance.",
+    "note": "Health spending includes final consumption of health care goods and services (i.e. current health expenditure). This excludes spending on capital investments.",
+    "citation": "Our World In Data based on Lindert (1994), OECD (1993), OECD Stat",
+    "originalChartUrl": "https://ourworldindata.org/grapher/public-health-expenditure-share-gdp?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Sweden",
+      "France",
+      "Germany",
+      "Japan",
+      "United Kingdom",
+      "Belgium",
+      "Spain",
+      "Australia",
+      "New Zealand",
+      "Canada"
+    ]
+  },
+  "columns": {
+    "public_health_expenditure_pc_gdp": {
+      "titleShort": "public_health_expenditure_pc_gdp",
+      "titleLong": "public_health_expenditure_pc_gdp",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 413989,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “public_health_expenditure_pc_gdp” [dataset]. Our World In Data based on Lindert (1994), OECD (1993), OECD Stat [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/413989.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-22"
+}
